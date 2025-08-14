@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.veen</groupId>
     <artifactId>desktop-desk-msrv</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>20250823-SNAPSHOT</version>
     <name>desktop-desk</name>
     <description>desktop desk microservice</description>
     <url/>
